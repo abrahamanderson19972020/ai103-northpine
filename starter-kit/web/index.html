@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Northpine Outfitters</title>
+  <meta name="color-scheme" content="light dark">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 40 40%27%3E%3Cpath d=%27M3 33 15 12l6 9 4-6 12 18z%27 fill=%27%231f4d3a%27/%3E%3C/svg%3E">
+  <script>
+    // Set day or night before the page paints, so there is no flash.
+    (function () {
+      var t = null;
+      try { t = localStorage.getItem("northpine-theme"); } catch (e) {}
+      if (t !== "day" && t !== "night") t = matchMedia("(prefers-color-scheme: dark)").matches ? "night" : "day";
+      document.documentElement.dataset.theme = t;
+    })();
+  </script>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <ul class="promise-bar" aria-label="Good to know">
+    <li>30 days to return</li>
+    <li>First size exchange is free</li>
+    <li>1 to 5 years of warranty on every product</li>
+  </ul>
+
+  <header class="top">
+    <a class="brand" href="#/" aria-label="Northpine Outfitters, home">
+      <svg viewBox="0 0 40 40" aria-hidden="true"><path d="M3 33 15 12l6 9 4-6 12 18z" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linejoin="round"/><path d="M9 33c5-4 9-4 13 0M17 33c4-3 8-3 11 0" fill="none" stroke="currentColor" stroke-width="1.4"/></svg>
+      <span>Northpine <em>Outfitters</em></span>
+    </a>
+    <nav aria-label="Main">
+      <a href="#/" data-nav="shop">Shop</a>
+      <a href="#/returns" data-nav="returns">Returns</a>
+      <a href="#/staff" data-nav="staff">Staff</a>
+      <a href="#/course" data-nav="course">Course map</a>
+    </nav>
+    <div class="top-tools">
+      <button class="icon-btn" id="theme-toggle" type="button" aria-pressed="false">
+        <svg class="sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2.6M12 18.9v2.6M2.5 12h2.6M18.9 12h2.6M5.3 5.3l1.8 1.8M16.9 16.9l1.8 1.8M5.3 18.7l1.8-1.8M16.9 7.1l1.8-1.8"/></svg>
+        <svg class="moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.2A8.2 8.2 0 0 1 9.8 4a8.2 8.2 0 1 0 10.2 10.2z"/></svg>
+        <span class="visually-hidden" id="theme-label">Switch to night</span>
+      </button>
+      <button class="icon-btn cart-btn" id="open-cart" type="button">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 8h12l-1 12H7zM9 8V6.5a3 3 0 0 1 6 0V8"/></svg>
+        <span class="visually-hidden">Open your bag</span>
+        <span class="cart-count" id="cart-count" hidden>0</span>
+      </button>
+      <button class="guide-btn" id="open-chat" type="button">Ask the Gear Guide</button>
+    </div>
+  </header>
+
+  <main id="main" tabindex="-1"></main>
+
+  <footer class="foot">
+    <div class="foot-grid">
+      <div class="foot-brand">
+        <p class="foot-name">Northpine Outfitters</p>
+        <p>Mountain gear, chosen by the height you are going to.</p>
+      </div>
+      <nav aria-label="Shop by category"><h2>Shop</h2><ul id="foot-cats"></ul></nav>
+      <nav aria-label="Help"><h2>Help</h2><ul>
+        <li><a href="#/returns">Return or repair</a></li>
+        <li><a href="#/returns">Find your order</a></li>
+      </ul></nav>
+      <nav aria-label="Behind the shop"><h2>Behind the shop</h2><ul>
+        <li><a href="#/staff">Staff workspace</a></li>
+        <li><a href="#/course">Course map</a></li>
+      </ul></nav>
+    </div>
+    <p class="foot-note">Northpine Outfitters is a fictional shop, built for the AI-103 course by AI, Actually. Products, people and prices are invented. You cannot buy anything here. Photo of the tent under the stars: Luca Calderone on Unsplash.</p>
+  </footer>
+
+  <div class="scrim" id="scrim" hidden></div>
+
+  <aside class="drawer cart" id="cart" aria-label="Your bag" hidden>
+    <div class="drawer-head">
+      <h2>Your bag</h2>
+      <button type="button" id="close-cart" aria-label="Close your bag">Close</button>
+    </div>
+    <div class="cart-body" id="cart-body"></div>
+  </aside>
+
+  <aside class="drawer chat" id="chat" aria-label="Gear Guide" hidden>
+    <div class="drawer-head chat-head">
+      <h2>Gear Guide</h2>
+      <button type="button" id="close-chat" aria-label="Close the Gear Guide">Close</button>
+    </div>
+    <div class="chat-log" id="chat-log" aria-live="polite"></div>
+    <form class="chat-form" id="chat-form">
+      <label class="visually-hidden" for="chat-input">Your question</label>
+      <textarea id="chat-input" rows="2" placeholder="Ask about gear, sizes or your order"></textarea>
+      <div class="chat-tools">
+        <button type="button" id="chat-photo" disabled>Add a photo</button>
+        <button type="button" id="chat-voice" disabled>Speak</button>
+        <button type="submit" id="chat-send" class="primary">Send</button>
+      </div>
+      <p class="chat-note" id="chat-note"></p>
+    </form>
+  </aside>
+
+  <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+  <script type="module" src="/app.js"></script>
+</body>
+</html>

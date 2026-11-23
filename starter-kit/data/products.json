@@ -1,0 +1,775 @@
+[
+  {
+    "sku": "TNT-101",
+    "name": "Northpine Fjellvik 2",
+    "brand": "Northpine",
+    "category": "Tents",
+    "price_nok": 3499,
+    "weight_g": 1850,
+    "season": "3-season",
+    "warranty_years": 3,
+    "stock": 12,
+    "manual_id": null,
+    "specs": {
+      "capacity_persons": 2,
+      "packed_size_cm": "42 x 15",
+      "hydrostatic_head_mm": 3000,
+      "poles": "aluminium 8.5 mm",
+      "doors": 2
+    },
+    "description": "Light two-person tent for summer hikes below the tree line."
+  },
+  {
+    "sku": "TNT-102",
+    "name": "Northpine Fjellvik 3",
+    "brand": "Northpine",
+    "category": "Tents",
+    "price_nok": 4299,
+    "weight_g": 2450,
+    "season": "3-season",
+    "warranty_years": 3,
+    "stock": 7,
+    "manual_id": null,
+    "specs": {
+      "capacity_persons": 3,
+      "packed_size_cm": "46 x 17",
+      "hydrostatic_head_mm": 3000,
+      "poles": "aluminium 8.5 mm",
+      "doors": 2
+    },
+    "description": "Three-person version of the Fjellvik, with two large vestibules."
+  },
+  {
+    "sku": "TNT-201",
+    "name": "Skarvo Stormhytte 2",
+    "brand": "Skarvo",
+    "category": "Tents",
+    "price_nok": 6999,
+    "weight_g": 3100,
+    "season": "4-season",
+    "warranty_years": 5,
+    "stock": 5,
+    "manual_id": "M-01",
+    "specs": {
+      "capacity_persons": 2,
+      "packed_size_cm": "48 x 19",
+      "hydrostatic_head_mm": 5000,
+      "poles": "aluminium 9.6 mm",
+      "doors": 2,
+      "snow_flaps": true,
+      "max_wind_m_s": 25
+    },
+    "description": "Two-person winter tunnel tent with snow flaps, built for exposed camps."
+  },
+  {
+    "sku": "TNT-202",
+    "name": "Skarvo Stormhytte 4",
+    "brand": "Skarvo",
+    "category": "Tents",
+    "price_nok": 9499,
+    "weight_g": 4800,
+    "season": "4-season",
+    "warranty_years": 5,
+    "stock": 2,
+    "manual_id": "M-01",
+    "specs": {
+      "capacity_persons": 4,
+      "packed_size_cm": "55 x 24",
+      "hydrostatic_head_mm": 5000,
+      "poles": "aluminium 10.2 mm",
+      "doors": 2,
+      "snow_flaps": true,
+      "max_wind_m_s": 25
+    },
+    "description": "Four-person winter base-camp tent with a large front vestibule."
+  },
+  {
+    "sku": "TNT-301",
+    "name": "Tindur Lett 1",
+    "brand": "Tindur",
+    "category": "Tents",
+    "price_nok": 4799,
+    "weight_g": 980,
+    "season": "3-season",
+    "warranty_years": 2,
+    "stock": 9,
+    "manual_id": null,
+    "specs": {
+      "capacity_persons": 1,
+      "packed_size_cm": "35 x 11",
+      "hydrostatic_head_mm": 2000,
+      "poles": "uses one trekking pole",
+      "doors": 1
+    },
+    "description": "Ultralight one-person shelter that pitches with a trekking pole."
+  },
+  {
+    "sku": "SLB-101",
+    "name": "Myrull Dun 0",
+    "brand": "Myrull",
+    "category": "Sleeping bags",
+    "price_nok": 2999,
+    "weight_g": 890,
+    "season": "3-season",
+    "warranty_years": 3,
+    "stock": 14,
+    "manual_id": "M-04",
+    "specs": {
+      "fill": "down 700 cuin",
+      "comfort_c": 0,
+      "limit_c": -6,
+      "max_user_height_cm": 190
+    },
+    "description": "Down bag for cool summer nights and autumn trips."
+  },
+  {
+    "sku": "SLB-102",
+    "name": "Myrull Dun -10",
+    "brand": "Myrull",
+    "category": "Sleeping bags",
+    "price_nok": 4499,
+    "weight_g": 1250,
+    "season": "winter",
+    "warranty_years": 3,
+    "stock": 6,
+    "manual_id": "M-04",
+    "specs": {
+      "fill": "down 750 cuin",
+      "comfort_c": -10,
+      "limit_c": -17,
+      "max_user_height_cm": 190
+    },
+    "description": "Winter down bag for cold nights in a tent or cabin."
+  },
+  {
+    "sku": "SLB-103",
+    "name": "Myrull Dun -20",
+    "brand": "Myrull",
+    "category": "Sleeping bags",
+    "price_nok": 6299,
+    "weight_g": 1650,
+    "season": "winter",
+    "warranty_years": 3,
+    "stock": 3,
+    "manual_id": "M-04",
+    "specs": {
+      "fill": "down 800 cuin",
+      "comfort_c": -20,
+      "limit_c": -28,
+      "max_user_height_cm": 195
+    },
+    "description": "Expedition down bag for deep winter camping."
+  },
+  {
+    "sku": "SLB-201",
+    "name": "Northpine Syntet +5",
+    "brand": "Northpine",
+    "category": "Sleeping bags",
+    "price_nok": 1299,
+    "weight_g": 1100,
+    "season": "summer",
+    "warranty_years": 2,
+    "stock": 25,
+    "manual_id": "M-04",
+    "specs": {
+      "fill": "synthetic",
+      "comfort_c": 5,
+      "limit_c": 0,
+      "max_user_height_cm": 190
+    },
+    "description": "Budget synthetic bag for summer and hut trips. Keeps some warmth when damp."
+  },
+  {
+    "sku": "MAT-101",
+    "name": "Northpine Luft R2",
+    "brand": "Northpine",
+    "category": "Sleeping mats",
+    "price_nok": 899,
+    "weight_g": 480,
+    "season": "3-season",
+    "warranty_years": 2,
+    "stock": 18,
+    "manual_id": null,
+    "specs": {
+      "type": "inflatable",
+      "r_value": 2.1,
+      "thickness_cm": 7
+    },
+    "description": "Compact inflatable mat for summer use."
+  },
+  {
+    "sku": "MAT-102",
+    "name": "Northpine Luft R5",
+    "brand": "Northpine",
+    "category": "Sleeping mats",
+    "price_nok": 1699,
+    "weight_g": 620,
+    "season": "winter",
+    "warranty_years": 2,
+    "stock": 8,
+    "manual_id": null,
+    "specs": {
+      "type": "inflatable, insulated",
+      "r_value": 5.2,
+      "thickness_cm": 8
+    },
+    "description": "Insulated inflatable mat for snow camping."
+  },
+  {
+    "sku": "MAT-201",
+    "name": "Tindur Skum",
+    "brand": "Tindur",
+    "category": "Sleeping mats",
+    "price_nok": 499,
+    "weight_g": 410,
+    "season": "all-season",
+    "warranty_years": 2,
+    "stock": 30,
+    "manual_id": null,
+    "specs": {
+      "type": "closed-cell foam",
+      "r_value": 2.0,
+      "thickness_cm": 1.8
+    },
+    "description": "Foam mat that cannot puncture. Good under an inflatable mat in winter."
+  },
+  {
+    "sku": "BPK-101",
+    "name": "Northpine Dagstur 24",
+    "brand": "Northpine",
+    "category": "Backpacks",
+    "price_nok": 999,
+    "weight_g": 780,
+    "season": "all-season",
+    "warranty_years": 3,
+    "stock": 22,
+    "manual_id": null,
+    "specs": {
+      "volume_l": 24,
+      "torso_sizes": "one size",
+      "max_load_kg": 8,
+      "rain_cover": true
+    },
+    "description": "Day pack for short hikes and daily use."
+  },
+  {
+    "sku": "BPK-102",
+    "name": "Northpine Dagstur 32",
+    "brand": "Northpine",
+    "category": "Backpacks",
+    "price_nok": 1299,
+    "weight_g": 940,
+    "season": "all-season",
+    "warranty_years": 3,
+    "stock": 15,
+    "manual_id": null,
+    "specs": {
+      "volume_l": 32,
+      "torso_sizes": "S/M, M/L",
+      "max_load_kg": 10,
+      "rain_cover": true
+    },
+    "description": "Larger day pack with a hip belt for long day trips."
+  },
+  {
+    "sku": "BPK-201",
+    "name": "Skarvo Langtur 55",
+    "brand": "Skarvo",
+    "category": "Backpacks",
+    "price_nok": 2799,
+    "weight_g": 1850,
+    "season": "all-season",
+    "warranty_years": 5,
+    "stock": 6,
+    "manual_id": "M-05",
+    "specs": {
+      "volume_l": 55,
+      "torso_sizes": "S, M, L",
+      "max_load_kg": 20,
+      "rain_cover": true
+    },
+    "description": "Trekking pack for multi-day hut-to-hut trips."
+  },
+  {
+    "sku": "BPK-202",
+    "name": "Skarvo Langtur 70",
+    "brand": "Skarvo",
+    "category": "Backpacks",
+    "price_nok": 3299,
+    "weight_g": 2150,
+    "season": "all-season",
+    "warranty_years": 5,
+    "stock": 4,
+    "manual_id": "M-05",
+    "specs": {
+      "volume_l": 70,
+      "torso_sizes": "S, M, L",
+      "max_load_kg": 25,
+      "rain_cover": true
+    },
+    "description": "Large trekking pack for tent trips of a week or more."
+  },
+  {
+    "sku": "BPK-301",
+    "name": "Isvik Topptur 38",
+    "brand": "Isvik",
+    "category": "Backpacks",
+    "price_nok": 2199,
+    "weight_g": 1250,
+    "season": "winter",
+    "warranty_years": 3,
+    "stock": 7,
+    "manual_id": null,
+    "specs": {
+      "volume_l": 38,
+      "torso_sizes": "S/M, M/L",
+      "max_load_kg": 14,
+      "ski_carry": "diagonal and A-frame",
+      "avalanche_tool_pocket": true
+    },
+    "description": "Ski-touring pack with ski carry and a pocket for shovel and probe."
+  },
+  {
+    "sku": "BOT-101",
+    "name": "Northpine Sti Low",
+    "brand": "Northpine",
+    "category": "Boots",
+    "price_nok": 1499,
+    "weight_g": 820,
+    "season": "summer",
+    "warranty_years": 2,
+    "stock": 20,
+    "manual_id": null,
+    "specs": {
+      "crampon_rating": "B0",
+      "upper": "mesh and synthetic",
+      "waterproof": false,
+      "sizes_eu": "36-47"
+    },
+    "description": "Low hiking shoe for dry trails. Not suitable for crampons."
+  },
+  {
+    "sku": "BOT-102",
+    "name": "Northpine Sti Mid WP",
+    "brand": "Northpine",
+    "category": "Boots",
+    "price_nok": 1899,
+    "weight_g": 1040,
+    "season": "3-season",
+    "warranty_years": 2,
+    "stock": 16,
+    "manual_id": null,
+    "specs": {
+      "crampon_rating": "B0",
+      "upper": "synthetic with waterproof membrane",
+      "waterproof": true,
+      "sizes_eu": "36-47"
+    },
+    "description": "Waterproof mid-cut hiking boot. Not suitable for crampons."
+  },
+  {
+    "sku": "BOT-201",
+    "name": "Skarvo Rygg B1",
+    "brand": "Skarvo",
+    "category": "Boots",
+    "price_nok": 2799,
+    "weight_g": 1480,
+    "season": "3-season",
+    "warranty_years": 3,
+    "stock": 9,
+    "manual_id": null,
+    "specs": {
+      "crampon_rating": "B1",
+      "upper": "leather",
+      "waterproof": true,
+      "sizes_eu": "37-48"
+    },
+    "description": "Stiff leather trekking boot. Works with strap-on crampons only."
+  },
+  {
+    "sku": "BOT-202",
+    "name": "Skarvo Tind B2",
+    "brand": "Skarvo",
+    "category": "Boots",
+    "price_nok": 3999,
+    "weight_g": 1720,
+    "season": "all-season",
+    "warranty_years": 3,
+    "stock": 5,
+    "manual_id": null,
+    "specs": {
+      "crampon_rating": "B2",
+      "upper": "leather and synthetic",
+      "waterproof": true,
+      "heel_welt": true,
+      "toe_welt": false,
+      "sizes_eu": "37-48"
+    },
+    "description": "Mountaineering boot with a heel welt. Works with strap-on and semi-automatic crampons."
+  },
+  {
+    "sku": "BOT-301",
+    "name": "Isvik Bre B3",
+    "brand": "Isvik",
+    "category": "Boots",
+    "price_nok": 5499,
+    "weight_g": 2050,
+    "season": "winter",
+    "warranty_years": 3,
+    "stock": 3,
+    "manual_id": null,
+    "specs": {
+      "crampon_rating": "B3",
+      "upper": "insulated synthetic",
+      "waterproof": true,
+      "heel_welt": true,
+      "toe_welt": true,
+      "sizes_eu": "38-48"
+    },
+    "description": "Insulated winter mountaineering boot with toe and heel welts. Works with all crampon types."
+  },
+  {
+    "sku": "CRP-101",
+    "name": "Isvik Sti 10 Strap",
+    "brand": "Isvik",
+    "category": "Crampons",
+    "price_nok": 1199,
+    "weight_g": 780,
+    "season": "winter",
+    "warranty_years": 2,
+    "stock": 11,
+    "manual_id": "M-03",
+    "specs": {
+      "points": 10,
+      "binding": "strap-on",
+      "fits_boot_ratings": [
+        "B1",
+        "B2",
+        "B3"
+      ],
+      "material": "steel"
+    },
+    "description": "Ten-point strap-on crampon for glacier walks and icy trails."
+  },
+  {
+    "sku": "CRP-102",
+    "name": "Isvik Bre 12 Semi",
+    "brand": "Isvik",
+    "category": "Crampons",
+    "price_nok": 1699,
+    "weight_g": 890,
+    "season": "winter",
+    "warranty_years": 2,
+    "stock": 8,
+    "manual_id": "M-03",
+    "specs": {
+      "points": 12,
+      "binding": "semi-automatic",
+      "fits_boot_ratings": [
+        "B2",
+        "B3"
+      ],
+      "material": "steel",
+      "requires": "heel welt"
+    },
+    "description": "Twelve-point semi-automatic crampon. The boot must have a heel welt."
+  },
+  {
+    "sku": "CRP-103",
+    "name": "Isvik Is 14 Auto",
+    "brand": "Isvik",
+    "category": "Crampons",
+    "price_nok": 2299,
+    "weight_g": 940,
+    "season": "winter",
+    "warranty_years": 2,
+    "stock": 4,
+    "manual_id": "M-03",
+    "specs": {
+      "points": 14,
+      "binding": "automatic",
+      "fits_boot_ratings": [
+        "B3"
+      ],
+      "material": "steel",
+      "requires": "toe and heel welt"
+    },
+    "description": "Fourteen-point automatic crampon for steep ice. The boot must have toe and heel welts."
+  },
+  {
+    "sku": "JKT-101",
+    "name": "Northpine Regn Shell",
+    "brand": "Northpine",
+    "category": "Jackets",
+    "price_nok": 2499,
+    "weight_g": 420,
+    "season": "all-season",
+    "warranty_years": 3,
+    "stock": 13,
+    "manual_id": null,
+    "specs": {
+      "layers": 3,
+      "hydrostatic_head_mm": 20000,
+      "hood": "helmet compatible",
+      "sizes": "XS-XXL"
+    },
+    "description": "Three-layer waterproof shell for rain, wind and wet snow."
+  },
+  {
+    "sku": "JKT-102",
+    "name": "Northpine Vind Light",
+    "brand": "Northpine",
+    "category": "Jackets",
+    "price_nok": 899,
+    "weight_g": 140,
+    "season": "3-season",
+    "warranty_years": 2,
+    "stock": 27,
+    "manual_id": null,
+    "specs": {
+      "layers": 1,
+      "water_resistant": true,
+      "hood": "simple",
+      "sizes": "XS-XXL"
+    },
+    "description": "Very light wind jacket that packs into its own pocket."
+  },
+  {
+    "sku": "JKT-201",
+    "name": "Myrull Dun Hood",
+    "brand": "Myrull",
+    "category": "Jackets",
+    "price_nok": 2999,
+    "weight_g": 380,
+    "season": "winter",
+    "warranty_years": 3,
+    "stock": 6,
+    "manual_id": null,
+    "specs": {
+      "fill": "down 750 cuin",
+      "hood": "insulated",
+      "sizes": "XS-XXL"
+    },
+    "description": "Warm down jacket for breaks and camp. Not waterproof."
+  },
+  {
+    "sku": "JKT-202",
+    "name": "Myrull Ull Mid",
+    "brand": "Myrull",
+    "category": "Jackets",
+    "price_nok": 1299,
+    "weight_g": 310,
+    "season": "all-season",
+    "warranty_years": 2,
+    "stock": 19,
+    "manual_id": null,
+    "specs": {
+      "fabric": "merino wool blend",
+      "hood": "none",
+      "sizes": "XS-XXL"
+    },
+    "description": "Wool mid-layer that stays warm when damp."
+  },
+  {
+    "sku": "STV-101",
+    "name": "Tindur Brenner Solo",
+    "brand": "Tindur",
+    "category": "Stoves",
+    "price_nok": 499,
+    "weight_g": 85,
+    "season": "3-season",
+    "warranty_years": 2,
+    "stock": 34,
+    "manual_id": "M-02",
+    "specs": {
+      "fuel": "gas canister",
+      "power_w": 2800,
+      "boil_time_1l_min": 3.5,
+      "piezo_igniter": false
+    },
+    "description": "Small canister-top stove for one or two people."
+  },
+  {
+    "sku": "STV-102",
+    "name": "Tindur Brenner Duo System",
+    "brand": "Tindur",
+    "category": "Stoves",
+    "price_nok": 1499,
+    "weight_g": 420,
+    "season": "3-season",
+    "warranty_years": 2,
+    "stock": 10,
+    "manual_id": "M-02",
+    "specs": {
+      "fuel": "gas canister",
+      "power_w": 2200,
+      "boil_time_1l_min": 2.5,
+      "pot_volume_l": 1.0,
+      "piezo_igniter": true
+    },
+    "description": "Stove and one-litre pot in one unit. Fast and wind resistant."
+  },
+  {
+    "sku": "STV-201",
+    "name": "Tindur Vinter Multi",
+    "brand": "Tindur",
+    "category": "Stoves",
+    "price_nok": 1999,
+    "weight_g": 390,
+    "season": "winter",
+    "warranty_years": 3,
+    "stock": 3,
+    "manual_id": "M-02",
+    "specs": {
+      "fuel": "white gas, kerosene, gas canister",
+      "power_w": 3000,
+      "boil_time_1l_min": 3.0,
+      "piezo_igniter": false
+    },
+    "description": "Multi-fuel stove that works well in deep cold."
+  },
+  {
+    "sku": "HDL-101",
+    "name": "Northpine Lys 300",
+    "brand": "Northpine",
+    "category": "Headlamps",
+    "price_nok": 399,
+    "weight_g": 78,
+    "season": "all-season",
+    "warranty_years": 2,
+    "stock": 40,
+    "manual_id": "M-06",
+    "specs": {
+      "lumens": 300,
+      "battery": "3 x AAA",
+      "burn_time_high_h": 4,
+      "water_rating": "IPX4"
+    },
+    "description": "Simple headlamp for camp and evening walks."
+  },
+  {
+    "sku": "HDL-102",
+    "name": "Northpine Lys 600 R",
+    "brand": "Northpine",
+    "category": "Headlamps",
+    "price_nok": 699,
+    "weight_g": 95,
+    "season": "all-season",
+    "warranty_years": 2,
+    "stock": 21,
+    "manual_id": "M-06",
+    "specs": {
+      "lumens": 600,
+      "battery": "rechargeable, USB-C",
+      "burn_time_high_h": 3,
+      "water_rating": "IPX4"
+    },
+    "description": "Rechargeable headlamp with a red light mode."
+  },
+  {
+    "sku": "HDL-201",
+    "name": "Isvik Natt 1200",
+    "brand": "Isvik",
+    "category": "Headlamps",
+    "price_nok": 1499,
+    "weight_g": 210,
+    "season": "winter",
+    "warranty_years": 3,
+    "stock": 5,
+    "manual_id": "M-06",
+    "specs": {
+      "lumens": 1200,
+      "battery": "rechargeable pack, can be worn inside the jacket",
+      "burn_time_high_h": 5,
+      "water_rating": "IPX6"
+    },
+    "description": "Powerful headlamp for winter touring. The battery pack can be kept warm inside the jacket."
+  },
+  {
+    "sku": "SKI-101",
+    "name": "Isvik Topptur 95",
+    "brand": "Isvik",
+    "category": "Ski touring",
+    "price_nok": 5999,
+    "weight_g": 2900,
+    "season": "winter",
+    "warranty_years": 2,
+    "stock": 6,
+    "manual_id": null,
+    "specs": {
+      "waist_mm": 95,
+      "lengths_cm": "162, 170, 178, 186",
+      "weight_note": "per pair at 178 cm"
+    },
+    "description": "All-round touring ski with a 95 mm waist."
+  },
+  {
+    "sku": "SKI-102",
+    "name": "Isvik Fell 95",
+    "brand": "Isvik",
+    "category": "Ski touring",
+    "price_nok": 1699,
+    "weight_g": 520,
+    "season": "winter",
+    "warranty_years": 2,
+    "stock": 9,
+    "manual_id": null,
+    "specs": {
+      "material": "mohair mix",
+      "fits": "Topptur 95, cut to length"
+    },
+    "description": "Climbing skins cut for the Topptur 95."
+  },
+  {
+    "sku": "SKI-103",
+    "name": "Isvik Stav Vario",
+    "brand": "Isvik",
+    "category": "Ski touring",
+    "price_nok": 899,
+    "weight_g": 490,
+    "season": "all-season",
+    "warranty_years": 2,
+    "stock": 17,
+    "manual_id": null,
+    "specs": {
+      "length_cm": "105-140",
+      "sections": 2,
+      "basket": "powder and summer baskets included"
+    },
+    "description": "Adjustable two-section pole for ski touring and trekking."
+  },
+  {
+    "sku": "ACC-101",
+    "name": "Northpine Reparasjon Kit Telt",
+    "brand": "Northpine",
+    "category": "Accessories",
+    "price_nok": 199,
+    "weight_g": 60,
+    "season": "all-season",
+    "warranty_years": 1,
+    "stock": 45,
+    "manual_id": null,
+    "specs": {
+      "contents": "pole repair sleeve, 4 fabric patches, seam sealer 7 ml"
+    },
+    "description": "Field repair kit for tent poles and fabric."
+  },
+  {
+    "sku": "ACC-102",
+    "name": "Northpine Vannfilter 1L",
+    "brand": "Northpine",
+    "category": "Accessories",
+    "price_nok": 549,
+    "weight_g": 95,
+    "season": "3-season",
+    "warranty_years": 2,
+    "stock": 12,
+    "manual_id": null,
+    "specs": {
+      "type": "squeeze filter with 1 litre soft bottle",
+      "pore_size_micron": 0.1,
+      "flow_l_min": 1.5
+    },
+    "description": "Squeeze water filter with a one-litre soft bottle."
+  }
+]

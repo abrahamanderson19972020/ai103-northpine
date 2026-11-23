@@ -1,0 +1,460 @@
+[
+  {
+    "order_id": "NP-2026-00101",
+    "order_date": "2026-09-03",
+    "customer_id": "C-001",
+    "status": "delivered",
+    "items": [
+      {
+        "sku": "TNT-201",
+        "name": "Skarvo Stormhytte 2",
+        "quantity": 1,
+        "unit_price_nok": 6999,
+        "line_total_nok": 6999
+      },
+      {
+        "sku": "ACC-101",
+        "name": "Northpine Reparasjon Kit Telt",
+        "quantity": 1,
+        "unit_price_nok": 199,
+        "line_total_nok": 199
+      }
+    ],
+    "total_nok": 7198,
+    "vat_included_nok": 1440,
+    "payment_method": "card"
+  },
+  {
+    "order_id": "NP-2026-00102",
+    "order_date": "2026-09-05",
+    "customer_id": "C-002",
+    "status": "delivered",
+    "items": [
+      {
+        "sku": "BOT-202",
+        "name": "Skarvo Tind B2",
+        "quantity": 1,
+        "unit_price_nok": 3999,
+        "line_total_nok": 3999
+      },
+      {
+        "sku": "CRP-102",
+        "name": "Isvik Bre 12 Semi",
+        "quantity": 1,
+        "unit_price_nok": 1699,
+        "line_total_nok": 1699
+      }
+    ],
+    "total_nok": 5698,
+    "vat_included_nok": 1140,
+    "payment_method": "card"
+  },
+  {
+    "order_id": "NP-2026-00103",
+    "order_date": "2026-09-09",
+    "customer_id": "C-003",
+    "status": "delivered",
+    "items": [
+      {
+        "sku": "SLB-102",
+        "name": "Myrull Dun -10",
+        "quantity": 1,
+        "unit_price_nok": 4499,
+        "line_total_nok": 4499
+      },
+      {
+        "sku": "MAT-102",
+        "name": "Northpine Luft R5",
+        "quantity": 1,
+        "unit_price_nok": 1699,
+        "line_total_nok": 1699
+      }
+    ],
+    "total_nok": 6198,
+    "vat_included_nok": 1240,
+    "payment_method": "card"
+  },
+  {
+    "order_id": "NP-2026-00104",
+    "order_date": "2026-09-12",
+    "customer_id": "C-004",
+    "status": "delivered",
+    "items": [
+      {
+        "sku": "STV-101",
+        "name": "Tindur Brenner Solo",
+        "quantity": 1,
+        "unit_price_nok": 499,
+        "line_total_nok": 499
+      },
+      {
+        "sku": "HDL-101",
+        "name": "Northpine Lys 300",
+        "quantity": 2,
+        "unit_price_nok": 399,
+        "line_total_nok": 798
+      }
+    ],
+    "total_nok": 1297,
+    "vat_included_nok": 259,
+    "payment_method": "card"
+  },
+  {
+    "order_id": "NP-2026-00105",
+    "order_date": "2026-09-18",
+    "customer_id": "C-005",
+    "status": "delivered",
+    "items": [
+      {
+        "sku": "BPK-201",
+        "name": "Skarvo Langtur 55",
+        "quantity": 1,
+        "unit_price_nok": 2799,
+        "line_total_nok": 2799
+      }
+    ],
+    "total_nok": 2799,
+    "vat_included_nok": 560,
+    "payment_method": "card"
+  },
+  {
+    "order_id": "NP-2026-00106",
+    "order_date": "2026-09-22",
+    "customer_id": "C-006",
+    "status": "delivered",
+    "items": [
+      {
+        "sku": "JKT-101",
+        "name": "Northpine Regn Shell",
+        "quantity": 1,
+        "unit_price_nok": 2499,
+        "line_total_nok": 2499
+      },
+      {
+        "sku": "JKT-202",
+        "name": "Myrull Ull Mid",
+        "quantity": 1,
+        "unit_price_nok": 1299,
+        "line_total_nok": 1299
+      }
+    ],
+    "total_nok": 3798,
+    "vat_included_nok": 760,
+    "payment_method": "card"
+  },
+  {
+    "order_id": "NP-2026-00107",
+    "order_date": "2026-09-27",
+    "customer_id": "C-007",
+    "status": "delivered",
+    "items": [
+      {
+        "sku": "BOT-101",
+        "name": "Northpine Sti Low",
+        "quantity": 1,
+        "unit_price_nok": 1499,
+        "line_total_nok": 1499
+      }
+    ],
+    "total_nok": 1499,
+    "vat_included_nok": 300,
+    "payment_method": "card"
+  },
+  {
+    "order_id": "NP-2026-00108",
+    "order_date": "2026-10-01",
+    "customer_id": "C-008",
+    "status": "delivered",
+    "items": [
+      {
+        "sku": "TNT-301",
+        "name": "Tindur Lett 1",
+        "quantity": 1,
+        "unit_price_nok": 4799,
+        "line_total_nok": 4799
+      },
+      {
+        "sku": "MAT-101",
+        "name": "Northpine Luft R2",
+        "quantity": 1,
+        "unit_price_nok": 899,
+        "line_total_nok": 899
+      },
+      {
+        "sku": "SLB-101",
+        "name": "Myrull Dun 0",
+        "quantity": 1,
+        "unit_price_nok": 2999,
+        "line_total_nok": 2999
+      }
+    ],
+    "total_nok": 8697,
+    "vat_included_nok": 1739,
+    "payment_method": "card"
+  },
+  {
+    "order_id": "NP-2026-00109",
+    "order_date": "2026-10-04",
+    "customer_id": "C-009",
+    "status": "delivered",
+    "items": [
+      {
+        "sku": "HDL-201",
+        "name": "Isvik Natt 1200",
+        "quantity": 1,
+        "unit_price_nok": 1499,
+        "line_total_nok": 1499
+      }
+    ],
+    "total_nok": 1499,
+    "vat_included_nok": 300,
+    "payment_method": "card"
+  },
+  {
+    "order_id": "NP-2026-00110",
+    "order_date": "2026-10-08",
+    "customer_id": "C-010",
+    "status": "delivered",
+    "items": [
+      {
+        "sku": "SKI-101",
+        "name": "Isvik Topptur 95",
+        "quantity": 1,
+        "unit_price_nok": 5999,
+        "line_total_nok": 5999
+      },
+      {
+        "sku": "SKI-102",
+        "name": "Isvik Fell 95",
+        "quantity": 1,
+        "unit_price_nok": 1699,
+        "line_total_nok": 1699
+      },
+      {
+        "sku": "SKI-103",
+        "name": "Isvik Stav Vario",
+        "quantity": 1,
+        "unit_price_nok": 899,
+        "line_total_nok": 899
+      }
+    ],
+    "total_nok": 8597,
+    "vat_included_nok": 1719,
+    "payment_method": "card"
+  },
+  {
+    "order_id": "NP-2026-00111",
+    "order_date": "2026-10-11",
+    "customer_id": "C-011",
+    "status": "delivered",
+    "items": [
+      {
+        "sku": "BOT-301",
+        "name": "Isvik Bre B3",
+        "quantity": 1,
+        "unit_price_nok": 5499,
+        "line_total_nok": 5499
+      },
+      {
+        "sku": "CRP-103",
+        "name": "Isvik Is 14 Auto",
+        "quantity": 1,
+        "unit_price_nok": 2299,
+        "line_total_nok": 2299
+      }
+    ],
+    "total_nok": 7798,
+    "vat_included_nok": 1560,
+    "payment_method": "card"
+  },
+  {
+    "order_id": "NP-2026-00112",
+    "order_date": "2026-10-15",
+    "customer_id": "C-012",
+    "status": "delivered",
+    "items": [
+      {
+        "sku": "STV-102",
+        "name": "Tindur Brenner Duo System",
+        "quantity": 1,
+        "unit_price_nok": 1499,
+        "line_total_nok": 1499
+      }
+    ],
+    "total_nok": 1499,
+    "vat_included_nok": 300,
+    "payment_method": "card"
+  },
+  {
+    "order_id": "NP-2026-00113",
+    "order_date": "2026-10-19",
+    "customer_id": "C-001",
+    "status": "delivered",
+    "items": [
+      {
+        "sku": "JKT-201",
+        "name": "Myrull Dun Hood",
+        "quantity": 1,
+        "unit_price_nok": 2999,
+        "line_total_nok": 2999
+      }
+    ],
+    "total_nok": 2999,
+    "vat_included_nok": 600,
+    "payment_method": "card"
+  },
+  {
+    "order_id": "NP-2026-00114",
+    "order_date": "2026-10-23",
+    "customer_id": "C-004",
+    "status": "delivered",
+    "items": [
+      {
+        "sku": "BPK-101",
+        "name": "Northpine Dagstur 24",
+        "quantity": 1,
+        "unit_price_nok": 999,
+        "line_total_nok": 999
+      },
+      {
+        "sku": "ACC-102",
+        "name": "Northpine Vannfilter 1L",
+        "quantity": 1,
+        "unit_price_nok": 549,
+        "line_total_nok": 549
+      }
+    ],
+    "total_nok": 1548,
+    "vat_included_nok": 310,
+    "payment_method": "card"
+  },
+  {
+    "order_id": "NP-2026-00115",
+    "order_date": "2026-10-28",
+    "customer_id": "C-002",
+    "status": "delivered",
+    "items": [
+      {
+        "sku": "TNT-102",
+        "name": "Northpine Fjellvik 3",
+        "quantity": 1,
+        "unit_price_nok": 4299,
+        "line_total_nok": 4299
+      }
+    ],
+    "total_nok": 4299,
+    "vat_included_nok": 860,
+    "payment_method": "card"
+  },
+  {
+    "order_id": "NP-2026-00116",
+    "order_date": "2026-11-02",
+    "customer_id": "C-007",
+    "status": "delivered",
+    "items": [
+      {
+        "sku": "SLB-201",
+        "name": "Northpine Syntet +5",
+        "quantity": 2,
+        "unit_price_nok": 1299,
+        "line_total_nok": 2598
+      }
+    ],
+    "total_nok": 2598,
+    "vat_included_nok": 520,
+    "payment_method": "card"
+  },
+  {
+    "order_id": "NP-2026-00117",
+    "order_date": "2026-11-06",
+    "customer_id": "C-005",
+    "status": "delivered",
+    "items": [
+      {
+        "sku": "BOT-201",
+        "name": "Skarvo Rygg B1",
+        "quantity": 1,
+        "unit_price_nok": 2799,
+        "line_total_nok": 2799
+      },
+      {
+        "sku": "CRP-101",
+        "name": "Isvik Sti 10 Strap",
+        "quantity": 1,
+        "unit_price_nok": 1199,
+        "line_total_nok": 1199
+      }
+    ],
+    "total_nok": 3998,
+    "vat_included_nok": 800,
+    "payment_method": "card"
+  },
+  {
+    "order_id": "NP-2026-00118",
+    "order_date": "2026-11-10",
+    "customer_id": "C-010",
+    "status": "shipped",
+    "items": [
+      {
+        "sku": "BPK-301",
+        "name": "Isvik Topptur 38",
+        "quantity": 1,
+        "unit_price_nok": 2199,
+        "line_total_nok": 2199
+      }
+    ],
+    "total_nok": 2199,
+    "vat_included_nok": 440,
+    "payment_method": "card"
+  },
+  {
+    "order_id": "NP-2026-00119",
+    "order_date": "2026-11-14",
+    "customer_id": "C-003",
+    "status": "shipped",
+    "items": [
+      {
+        "sku": "STV-201",
+        "name": "Tindur Vinter Multi",
+        "quantity": 1,
+        "unit_price_nok": 1999,
+        "line_total_nok": 1999
+      },
+      {
+        "sku": "MAT-201",
+        "name": "Tindur Skum",
+        "quantity": 1,
+        "unit_price_nok": 499,
+        "line_total_nok": 499
+      }
+    ],
+    "total_nok": 2498,
+    "vat_included_nok": 500,
+    "payment_method": "card"
+  },
+  {
+    "order_id": "NP-2026-00120",
+    "order_date": "2026-11-18",
+    "customer_id": "C-008",
+    "status": "processing",
+    "items": [
+      {
+        "sku": "HDL-102",
+        "name": "Northpine Lys 600 R",
+        "quantity": 1,
+        "unit_price_nok": 699,
+        "line_total_nok": 699
+      },
+      {
+        "sku": "JKT-102",
+        "name": "Northpine Vind Light",
+        "quantity": 1,
+        "unit_price_nok": 899,
+        "line_total_nok": 899
+      }
+    ],
+    "total_nok": 1598,
+    "vat_included_nok": 320,
+    "payment_method": "card"
+  }
+]

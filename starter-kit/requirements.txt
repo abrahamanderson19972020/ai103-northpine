@@ -1,0 +1,6 @@
+# Module 01: web app basics. Later modules add their own packages here.
+fastapi==0.165.0
+uvicorn[standard]==0.54.0
+python-dotenv==1.2.3
+httpx2==2.16.2
+pytest==9.1.1

@@ -1,0 +1,61 @@
+﻿review_id,sku,product_name,rating,language,review_date,reviewer,title,text
+R-001,TNT-201,Skarvo Stormhytte 2,5,en,2026-09-20,Ingrid S.,Stood firm in a storm,We had two nights with strong wind on Kvaløya and the tent did not move. The snow flaps really work. Pitching took about ten minutes with gloves on.
+R-002,TNT-201,Skarvo Stormhytte 2,2,en,2026-10-02,Marcus T.,Pole snapped on the second trip,One pole section broke in what felt like normal wind. Customer service was slow to answer. Please call me on +47 400 00 555 because email does not work for me.
+R-003,TNT-201,Skarvo Stormhytte 2,4,no,2026-10-14,Kari N.,Solid vintertelt,"Veldig stabilt i vind og lett å sette opp. Litt tungt å bære alene, men det er verdt det. Trekker en stjerne for kondens når ventilene er lukket."
+R-004,TNT-202,Skarvo Stormhytte 4,5,de,2026-10-21,Familie Brandt,Perfekt für vier,"Wir waren zu viert eine Woche in Nordnorwegen. Viel Platz, große Apsis für das Gepäck. Der Aufbau ist auch bei Wind einfach."
+R-005,TNT-101,Northpine Fjellvik 2,4,en,2026-08-30,Priya N.,Great summer tent,"Light and quick to pitch. The two doors are useful. It is a summer tent, so do not expect it to handle snow."
+R-006,TNT-101,Northpine Fjellvik 2,3,no,2026-09-11,Henrik L.,"Grei, men trang","Teltet er lett og fint, men to voksne med store sekker får det trangt. Glidelåsen hekter seg av og til."
+R-007,TNT-102,Northpine Fjellvik 3,5,en,2026-11-05,Lars B.,Room for the whole family,Two adults and one child with space to spare. Stayed dry in a full night of rain.
+R-008,TNT-301,Tindur Lett 1,5,en,2026-10-09,Jonas B.,"Under one kilo, really",I weighed it at 975 grams. It needs a trekking pole and some practice to pitch tight. Perfect for fast solo trips.
+R-009,TNT-301,Tindur Lett 1,2,de,2026-10-18,Stefan M.,Zu viel Kondenswasser,Bei feuchtem Wetter war innen alles nass. Für den Preis hätte ich mehr erwartet. Das Gewicht ist allerdings top.
+R-010,SLB-102,Myrull Dun -10,5,en,2026-09-25,Anja W.,Warm at minus eight,I am a cold sleeper and I was warm at minus eight with a good mat. The hood closes well.
+R-011,SLB-102,Myrull Dun -10,4,de,2026-10-03,Anja W.,"Sehr warm, aber groß im Rucksack","Hält, was er verspricht. Das Packmaß ist größer als erwartet, im 55-Liter-Rucksack wird es eng."
+R-012,SLB-102,Myrull Dun -10,1,en,2026-10-27,Greg P.,Feathers everywhere,Down came out of the seams from the first night. I want my money back. This is the worst bag I have owned and I am angry about it.
+R-013,SLB-101,Myrull Dun 0,4,no,2026-10-12,Jonas B.,Fin høstpose,Varm nok ned mot null. Veier lite og pakker lite. Glidelåsen kunne vært kraftigere.
+R-014,SLB-103,Myrull Dun -20,5,en,2026-11-12,Eirik H.,Expedition quality,"Used it at minus twenty-two on Finnmarksvidda. Slept through the night. Expensive, but worth it."
+R-015,SLB-201,Northpine Syntet +5,3,en,2026-11-09,Emma H.,Fine for huts,Good for summer and cabin trips. It is heavy and bulky compared with down. You get what you pay for.
+R-016,SLB-201,Northpine Syntet +5,4,no,2026-11-15,Emma H.,Bra til prisen,Kjøpte to til barna. Fungerer fint på hytta og om sommeren. Tåler vask i maskin.
+R-017,MAT-102,Northpine Luft R5,5,en,2026-09-28,Anja W.,Warm on snow,No cold from below on snow. A bit noisy when you turn. The pump sack works well.
+R-018,MAT-102,Northpine Luft R5,2,en,2026-10-30,Rob K.,Slow leak after a month,It loses air during the night. I could not find the hole. I expected better for this price.
+R-019,MAT-101,Northpine Luft R2,4,de,2026-10-10,Jonas B.,Leicht und bequem,Für den Sommer völlig ausreichend. Kleines Packmaß. Im Herbst wird es von unten kalt.
+R-020,MAT-201,Tindur Skum,5,no,2026-11-20,Mari S.,Kan ikke punktere,Enkelt og trygt. Bruker det under luftmadrassen om vinteren. Billig forsikring.
+R-021,BPK-201,Skarvo Langtur 55,5,en,2026-09-30,Sara L.,Carries twenty kilos well,The hip belt takes the weight. I followed the fitting guide and it made a big difference. No sore shoulders after five days.
+R-022,BPK-201,Skarvo Langtur 55,3,no,2026-10-06,Petter A.,"God sekk, dårlig regntrekk","Sekken sitter godt, men regntrekket blåste av i vinden. Lommene på hoftebeltet er for små for telefonen min."
+R-023,BPK-201,Skarvo Langtur 55,4,de,2026-10-16,Sara L.,Guter Trekkingrucksack,Sitzt nach dem Einstellen sehr gut. Die Rückenlänge M passt mir bei 47 cm. Ein Stern Abzug für das Gewicht.
+R-024,BPK-202,Skarvo Langtur 70,5,en,2026-10-25,Tom E.,Big and stable,A week of food and a winter tent fit inside. Stable even when full.
+R-025,BPK-101,Northpine Dagstur 24,4,en,2026-10-29,Mikkel D.,Good everyday pack,I use it for work and for short hikes. The rain cover is a nice extra.
+R-026,BPK-101,Northpine Dagstur 24,5,no,2026-11-01,Mikkel D.,Perfekt dagstursekk,"Passe stor, lett og med regntrekk. Har blitt favorittsekken."
+R-027,BPK-102,Northpine Dagstur 32,2,en,2026-11-08,Nina F.,Strap came loose,The shoulder strap seam opened after three weeks. I sent photos from nina.f@example.com but have no answer yet.
+R-028,BPK-301,Isvik Topptur 38,5,en,2026-11-16,Ola N.,Made for ski touring,"Skis go on fast, and the shovel pocket is easy to reach. Fits a helmet inside."
+R-029,BPK-301,Isvik Topptur 38,4,de,2026-11-19,Tobias K.,Durchdachter Tourenrucksack,"Skibefestigung funktioniert gut, auch mit Handschuhen. Für Mehrtagestouren etwas klein."
+R-030,BOT-202,Skarvo Tind B2,5,en,2026-09-19,Lars B.,Stiff and warm,Used with the Bre 12 Semi crampons on Folgefonna. The heel welt holds the crampon firmly. No blisters after a short break-in.
+R-031,BOT-202,Skarvo Tind B2,3,no,2026-09-29,Lars B.,Smal i tåboksen,"Gode støvler, men smale foran. Jeg måtte gå opp en halv størrelse. Sålen er veldig stiv, som den skal være."
+R-032,BOT-202,Skarvo Tind B2,1,en,2026-10-20,Dana R.,Sole came off,The sole started to separate after four trips. This is dangerous on a glacier. I think this should be recalled.
+R-033,BOT-301,Isvik Bre B3,5,de,2026-10-24,Hanna V.,Warme Füße bei minus 15,"Mit den Is 14 Auto Steigeisen eine perfekte Kombination. Schwer, aber sehr warm und stabil."
+R-034,BOT-301,Isvik Bre B3,4,en,2026-11-03,Hanna V.,Serious winter boot,Warm and precise. It takes all crampon types. Heavy for long approaches.
+R-035,BOT-201,Skarvo Rygg B1,4,en,2026-11-17,Sara L.,Good trekking boot,Comfortable from day one. Remember that it only takes strap-on crampons.
+R-036,BOT-201,Skarvo Rygg B1,2,no,2026-11-21,Geir M.,Feil stegjern anbefalt,"Jeg fikk anbefalt Bre 12 Semi til denne støvelen i chatten, men den passer ikke. Støvelen har ikke hælkant. Måtte sende stegjernene tilbake."
+R-037,BOT-101,Northpine Sti Low,4,en,2026-10-05,Emma H.,Light summer shoe,"Good grip on dry rock. Not waterproof, as the page says."
+R-038,BOT-102,Northpine Sti Mid WP,5,no,2026-10-22,Silje K.,Tørre føtter,Gikk en hel dag i regn og myr uten å bli våt. Sitter godt rundt ankelen.
+R-039,BOT-102,Northpine Sti Mid WP,3,de,2026-11-11,Julia S.,"Okay, aber warm","Wasserdicht, ja. Im Sommer aber sehr warm am Fuß. Für den Herbst gut."
+R-040,CRP-102,Isvik Bre 12 Semi,5,en,2026-09-21,Lars B.,Easy to fit,Fitted to my Tind B2 boots in five minutes using the manual. Solid on hard ice.
+R-041,CRP-102,Isvik Bre 12 Semi,4,no,2026-10-13,Marte O.,Gode allround stegjern,Sitter stødig på støvler med hælkant. Antisnøplatene fungerer bra i våt snø.
+R-042,CRP-103,Isvik Is 14 Auto,5,en,2026-10-26,Hanna V.,Bites into steep ice,"Fourteen points and a firm click on the heel lever. Only for B3 boots, so check before you buy."
+R-043,CRP-101,Isvik Sti 10 Strap,4,en,2026-11-18,Sara L.,Good for glacier walks,Straps fit my Rygg B1 boots well. Takes a few minutes longer to put on than a clip binding.
+R-044,CRP-101,Isvik Sti 10 Strap,3,de,2026-11-22,Uwe H.,Riemen zu lang,"Funktioniert, aber die Riemen sind sehr lang und müssen gekürzt werden. Anleitung beachten."
+R-045,JKT-101,Northpine Regn Shell,5,en,2026-09-26,Tobias K.,Dry in a full day of rain,Eight hours of rain on Besseggen and I stayed dry. The hood fits over a helmet.
+R-046,JKT-101,Northpine Regn Shell,4,de,2026-10-07,Tobias K.,Zuverlässige Regenjacke,Hält dicht und ist atmungsaktiv genug. Der Reißverschluss ist etwas steif.
+R-047,JKT-101,Northpine Regn Shell,2,no,2026-10-31,Trond E.,Lekker i skuldrene,Etter to måneder trekker den vann i skuldrene under sekken. Skuffet over holdbarheten.
+R-048,JKT-201,Myrull Dun Hood,5,en,2026-10-28,Ingrid S.,Like wearing a sleeping bag,Very warm for its weight. I use it for every break in winter.
+R-049,JKT-201,Myrull Dun Hood,4,no,2026-11-07,Ingrid S.,Varm og lett,"Perfekt i pauser. Tåler ikke regn, så ha skalljakke med."
+R-050,JKT-202,Myrull Ull Mid,5,de,2026-10-17,Tobias K.,Angenehme Wolle,Kratzt nicht und wärmt auch feucht. Riecht nach drei Tagen noch nicht.
+R-051,JKT-102,Northpine Vind Light,4,en,2026-11-21,Jonas B.,Tiny and useful,Weighs nothing and blocks the wind on ridges. Not for rain.
+R-052,STV-101,Tindur Brenner Solo,5,en,2026-09-16,Mikkel D.,Small and powerful,Boils a litre in under four minutes. Fits inside my mug with a small gas canister.
+R-053,STV-101,Tindur Brenner Solo,1,en,2026-10-01,Paul V.,"Flame flared up, burned my tent",I lit it in the vestibule and the flame shot up and melted a hole in the flysheet. This product is unsafe. Someone could get badly hurt.
+R-054,STV-101,Tindur Brenner Solo,3,no,2026-10-19,Mikkel D.,"Fungerer, men vindutsatt",Koker fort i stille vær. I vind tar det mye lengre tid uten vindskjerm.
+R-055,STV-102,Tindur Brenner Duo System,5,de,2026-10-23,Daniel O.,Schnell und sparsam,Ein Liter Wasser in zweieinhalb Minuten. Der Windschutz ist eingebaut. Sehr zufrieden.
+R-056,STV-102,Tindur Brenner Duo System,4,en,2026-11-04,Daniel O.,Fast system,Very fast and stable. A bit tall to pack. The igniter failed once in the cold.
+R-057,STV-201,Tindur Vinter Multi,5,no,2026-11-23,Anders B.,Virker i sprengkulde,Brukt på minus 25 med renset bensin. Tenner hver gang når man forvarmer riktig.
+R-058,HDL-201,Isvik Natt 1200,5,en,2026-10-11,Priya N.,Turns night into day,The beam is huge. Keeping the battery inside my jacket gave me the full burn time at minus fifteen.
+R-059,HDL-102,Northpine Lys 600 R,4,en,2026-11-13,Jonas B.,Good value,Bright enough for skiing home in the dark. Charging takes about three hours.
+R-060,HDL-101,Northpine Lys 300,3,de,2026-09-24,Mikkel D.,Einfach und günstig,Für das Lager reicht sie. Für den Abstieg im Dunkeln zu schwach.

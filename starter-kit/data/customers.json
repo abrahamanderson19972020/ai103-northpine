@@ -1,0 +1,86 @@
+[
+  {
+    "customer_id": "C-001",
+    "name": "Ingrid Solheim",
+    "email": "ingrid.solheim@example.com",
+    "phone": "+47 400 00 101",
+    "city": "Tromsø"
+  },
+  {
+    "customer_id": "C-002",
+    "name": "Lars Bakken",
+    "email": "lars.bakken@example.com",
+    "phone": "+47 400 00 102",
+    "city": "Bergen"
+  },
+  {
+    "customer_id": "C-003",
+    "name": "Anja Weber",
+    "email": "anja.weber@example.com",
+    "phone": "+49 30 0000 103",
+    "city": "Berlin"
+  },
+  {
+    "customer_id": "C-004",
+    "name": "Mikkel Dahl",
+    "email": "mikkel.dahl@example.com",
+    "phone": "+47 400 00 104",
+    "city": "Oslo"
+  },
+  {
+    "customer_id": "C-005",
+    "name": "Sara Lindqvist",
+    "email": "sara.lindqvist@example.com",
+    "phone": "+46 70 000 01 05",
+    "city": "Göteborg"
+  },
+  {
+    "customer_id": "C-006",
+    "name": "Tobias Krüger",
+    "email": "tobias.krueger@example.com",
+    "phone": "+49 89 0000 106",
+    "city": "München"
+  },
+  {
+    "customer_id": "C-007",
+    "name": "Emma Halvorsen",
+    "email": "emma.halvorsen@example.com",
+    "phone": "+47 400 00 107",
+    "city": "Trondheim"
+  },
+  {
+    "customer_id": "C-008",
+    "name": "Jonas Berg",
+    "email": "jonas.berg@example.com",
+    "phone": "+47 400 00 108",
+    "city": "Bodø"
+  },
+  {
+    "customer_id": "C-009",
+    "name": "Priya Nair",
+    "email": "priya.nair@example.com",
+    "phone": "+44 20 0000 0109",
+    "city": "London"
+  },
+  {
+    "customer_id": "C-010",
+    "name": "Ola Nygård",
+    "email": "ola.nygaard@example.com",
+    "phone": "+47 400 00 110",
+    "city": "Ålesund"
+  },
+  {
+    "customer_id": "C-011",
+    "name": "Hanna Vik",
+    "email": "hanna.vik@example.com",
+    "phone": "+47 400 00 111",
+    "city": "Stavanger"
+  },
+  {
+    "customer_id": "C-012",
+    "name": "Daniel Okafor",
+    "email": "daniel.okafor@example.com",
+    "phone": "+47 400 00 112",
+    "city": "Oslo"
+  }
+]

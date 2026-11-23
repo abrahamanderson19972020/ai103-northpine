@@ -1,0 +1,44 @@
+[
+  {
+    "manual_id": "M-01",
+    "title": "Stormhytte Winter Tents: User Manual",
+    "applies_to": "Skarvo Stormhytte 2 and Stormhytte 4",
+    "file": "manuals/manual-01-stormhytte-winter-tents.pdf",
+    "scanned_image_only": false
+  },
+  {
+    "manual_id": "M-02",
+    "title": "Brenner and Vinter Stoves: Safety and Use",
+    "applies_to": "Tindur Brenner Solo, Brenner Duo System and Vinter Multi",
+    "file": "manuals/manual-02-stoves-safety-and-use-SCANNED.pdf",
+    "scanned_image_only": true
+  },
+  {
+    "manual_id": "M-03",
+    "title": "Isvik Crampons: Fitting and Boot Compatibility",
+    "applies_to": "Isvik Sti 10 Strap, Bre 12 Semi and Is 14 Auto",
+    "file": "manuals/manual-03-crampons-fitting-and-compatibility.pdf",
+    "scanned_image_only": false
+  },
+  {
+    "manual_id": "M-04",
+    "title": "Myrull and Northpine Sleeping Bags: Ratings and Care",
+    "applies_to": "Myrull Dun 0, Dun -10, Dun -20 and Northpine Syntet +5",
+    "file": "manuals/manual-04-sleeping-bags-ratings-and-care.pdf",
+    "scanned_image_only": false
+  },
+  {
+    "manual_id": "M-05",
+    "title": "Skarvo Langtur Backpacks: Fitting Guide",
+    "applies_to": "Skarvo Langtur 55 and Langtur 70",
+    "file": "manuals/manual-05-langtur-backpacks-fitting.pdf",
+    "scanned_image_only": false
+  },
+  {
+    "manual_id": "M-06",
+    "title": "Headlamps: Modes and Battery Life",
+    "applies_to": "Northpine Lys 300, Lys 600 R and Isvik Natt 1200",
+    "file": "manuals/manual-06-headlamps-modes-and-battery.pdf",
+    "scanned_image_only": false
+  }
+]

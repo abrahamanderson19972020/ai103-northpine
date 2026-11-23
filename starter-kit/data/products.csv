@@ -1,0 +1,41 @@
+sku,name,brand,category,price_nok,weight_g,season,warranty_years,stock,manual_id,description
+TNT-101,Northpine Fjellvik 2,Northpine,Tents,3499,1850,3-season,3,12,,Light two-person tent for summer hikes below the tree line.
+TNT-102,Northpine Fjellvik 3,Northpine,Tents,4299,2450,3-season,3,7,,"Three-person version of the Fjellvik, with two large vestibules."
+TNT-201,Skarvo Stormhytte 2,Skarvo,Tents,6999,3100,4-season,5,5,M-01,"Two-person winter tunnel tent with snow flaps, built for exposed camps."
+TNT-202,Skarvo Stormhytte 4,Skarvo,Tents,9499,4800,4-season,5,2,M-01,Four-person winter base-camp tent with a large front vestibule.
+TNT-301,Tindur Lett 1,Tindur,Tents,4799,980,3-season,2,9,,Ultralight one-person shelter that pitches with a trekking pole.
+SLB-101,Myrull Dun 0,Myrull,Sleeping bags,2999,890,3-season,3,14,M-04,Down bag for cool summer nights and autumn trips.
+SLB-102,Myrull Dun -10,Myrull,Sleeping bags,4499,1250,winter,3,6,M-04,Winter down bag for cold nights in a tent or cabin.
+SLB-103,Myrull Dun -20,Myrull,Sleeping bags,6299,1650,winter,3,3,M-04,Expedition down bag for deep winter camping.
+SLB-201,Northpine Syntet +5,Northpine,Sleeping bags,1299,1100,summer,2,25,M-04,Budget synthetic bag for summer and hut trips. Keeps some warmth when damp.
+MAT-101,Northpine Luft R2,Northpine,Sleeping mats,899,480,3-season,2,18,,Compact inflatable mat for summer use.
+MAT-102,Northpine Luft R5,Northpine,Sleeping mats,1699,620,winter,2,8,,Insulated inflatable mat for snow camping.
+MAT-201,Tindur Skum,Tindur,Sleeping mats,499,410,all-season,2,30,,Foam mat that cannot puncture. Good under an inflatable mat in winter.
+BPK-101,Northpine Dagstur 24,Northpine,Backpacks,999,780,all-season,3,22,,Day pack for short hikes and daily use.
+BPK-102,Northpine Dagstur 32,Northpine,Backpacks,1299,940,all-season,3,15,,Larger day pack with a hip belt for long day trips.
+BPK-201,Skarvo Langtur 55,Skarvo,Backpacks,2799,1850,all-season,5,6,M-05,Trekking pack for multi-day hut-to-hut trips.
+BPK-202,Skarvo Langtur 70,Skarvo,Backpacks,3299,2150,all-season,5,4,M-05,Large trekking pack for tent trips of a week or more.
+BPK-301,Isvik Topptur 38,Isvik,Backpacks,2199,1250,winter,3,7,,Ski-touring pack with ski carry and a pocket for shovel and probe.
+BOT-101,Northpine Sti Low,Northpine,Boots,1499,820,summer,2,20,,Low hiking shoe for dry trails. Not suitable for crampons.
+BOT-102,Northpine Sti Mid WP,Northpine,Boots,1899,1040,3-season,2,16,,Waterproof mid-cut hiking boot. Not suitable for crampons.
+BOT-201,Skarvo Rygg B1,Skarvo,Boots,2799,1480,3-season,3,9,,Stiff leather trekking boot. Works with strap-on crampons only.
+BOT-202,Skarvo Tind B2,Skarvo,Boots,3999,1720,all-season,3,5,,Mountaineering boot with a heel welt. Works with strap-on and semi-automatic crampons.
+BOT-301,Isvik Bre B3,Isvik,Boots,5499,2050,winter,3,3,,Insulated winter mountaineering boot with toe and heel welts. Works with all crampon types.
+CRP-101,Isvik Sti 10 Strap,Isvik,Crampons,1199,780,winter,2,11,M-03,Ten-point strap-on crampon for glacier walks and icy trails.
+CRP-102,Isvik Bre 12 Semi,Isvik,Crampons,1699,890,winter,2,8,M-03,Twelve-point semi-automatic crampon. The boot must have a heel welt.
+CRP-103,Isvik Is 14 Auto,Isvik,Crampons,2299,940,winter,2,4,M-03,Fourteen-point automatic crampon for steep ice. The boot must have toe and heel welts.
+JKT-101,Northpine Regn Shell,Northpine,Jackets,2499,420,all-season,3,13,,"Three-layer waterproof shell for rain, wind and wet snow."
+JKT-102,Northpine Vind Light,Northpine,Jackets,899,140,3-season,2,27,,Very light wind jacket that packs into its own pocket.
+JKT-201,Myrull Dun Hood,Myrull,Jackets,2999,380,winter,3,6,,Warm down jacket for breaks and camp. Not waterproof.
+JKT-202,Myrull Ull Mid,Myrull,Jackets,1299,310,all-season,2,19,,Wool mid-layer that stays warm when damp.
+STV-101,Tindur Brenner Solo,Tindur,Stoves,499,85,3-season,2,34,M-02,Small canister-top stove for one or two people.
+STV-102,Tindur Brenner Duo System,Tindur,Stoves,1499,420,3-season,2,10,M-02,Stove and one-litre pot in one unit. Fast and wind resistant.
+STV-201,Tindur Vinter Multi,Tindur,Stoves,1999,390,winter,3,3,M-02,Multi-fuel stove that works well in deep cold.
+HDL-101,Northpine Lys 300,Northpine,Headlamps,399,78,all-season,2,40,M-06,Simple headlamp for camp and evening walks.
+HDL-102,Northpine Lys 600 R,Northpine,Headlamps,699,95,all-season,2,21,M-06,Rechargeable headlamp with a red light mode.
+HDL-201,Isvik Natt 1200,Isvik,Headlamps,1499,210,winter,3,5,M-06,Powerful headlamp for winter touring. The battery pack can be kept warm inside the jacket.
+SKI-101,Isvik Topptur 95,Isvik,Ski touring,5999,2900,winter,2,6,,All-round touring ski with a 95 mm waist.
+SKI-102,Isvik Fell 95,Isvik,Ski touring,1699,520,winter,2,9,,Climbing skins cut for the Topptur 95.
+SKI-103,Isvik Stav Vario,Isvik,Ski touring,899,490,all-season,2,17,,Adjustable two-section pole for ski touring and trekking.
+ACC-101,Northpine Reparasjon Kit Telt,Northpine,Accessories,199,60,all-season,1,45,,Field repair kit for tent poles and fabric.
+ACC-102,Northpine Vannfilter 1L,Northpine,Accessories,549,95,3-season,2,12,,Squeeze water filter with a one-litre soft bottle.
